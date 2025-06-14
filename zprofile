@@ -6,6 +6,4 @@ elif [ -d "/home/linuxbrew" ]; then
   eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 fi
 
-# Added by Toolbox App
-export PATH="$PATH:/Users/morisoto/Library/Application Support/JetBrains/Toolbox/scripts"
 
